@@ -1,4 +1,4 @@
-# SSR for linux with terminal
+# SSR for linux using terminal
 
 ### [source-link](https://www.xzymoe.com/linux-ssr/)
 
