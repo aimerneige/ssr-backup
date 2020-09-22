@@ -1,6 +1,6 @@
 # SSR for linux using terminal
 
-### [source-link](https://www.xzymoe.com/linux-ssr/)
+<!-- ### [source-link](https://www.xzymoe.com/linux-ssr/) -->
 
 ```bash
 #将ssr丢到bin里，并给予x权限。
