@@ -1,5 +1,9 @@
 # SSR for linux using terminal
 
+```
+151.101.76.133 raw.githubusercontent.com
+```
+
 <!-- ### [source-link](https://www.xzymoe.com/linux-ssr/) -->
 
 ```bash
